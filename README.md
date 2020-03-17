@@ -1,2 +1,1 @@
-# yadavcart
-Ecommerce website with enchanced shopping and payment options. 
+# Returns info(area code, country, State/province) for any phone number
