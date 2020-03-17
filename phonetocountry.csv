@@ -1,0 +1,781 @@
+Country,City,Area Code
+US,Alabama,205; 251; 256; 334; 938
+US,Alaska,907
+US,Arizona,480; 520; 602; 623; 928
+US,Arkansas,479; 501; 870
+US,California,209; 213; 279; 310; 323; 408; 415; 424; 442; 510; 530; 559; 562; 619; 626; 628; 650; 657; 661; 669; 707; 714; 747; 760; 805; 818; 820; 831; 858; 909; 916; 925; 949; 951
+US,Colorado,303; 719; 720; 970
+US,Connecticut,203; 475; 860; 959
+US,Delaware,302
+US,Florida,239; 305; 321; 352; 386; 407; 561; 727; 754; 772; 786; 813; 850; 863; 904; 941; 954
+US,Georgia,229; 404; 470; 478; 678; 706; 762; 770; 912
+US,Hawaii,808
+US,Idaho,208; 986
+US,Illinois,217; 224; 309; 312; 331; 618; 630; 708; 773; 779; 815; 847; 872
+US,Indiana,219; 260; 317; 463; 574; 765; 812; 930
+US,Iowa,319; 515; 563; 641; 712
+US,Kansas,316; 620; 785; 913
+US,Kentucky,270; 364; 502; 606; 859
+US,Louisiana,225; 318; 337; 504; 985
+US,Maine,207
+US,Maryland,240; 301; 410; 443; 667
+US,Massachusetts,339; 351; 413; 508; 617; 774; 781; 857; 978
+US,Michigan,231; 248; 269; 313; 517; 586; 616; 734; 810; 906; 947; 989
+US,Minnesota,218; 320; 507; 612; 651; 763; 952
+US,Mississippi,228; 601; 662; 769
+US,Missouri,314; 417; 573; 636; 660; 816
+US,Montana,406
+US,Nebraska,308; 402; 531
+US,Nevada,702; 725; 775
+US,New Hampshire,603
+US,New Jersey,201; 551; 609; 640; 732; 848; 856; 862; 908; 973
+US,New Mexico,505; 575
+US,New York,212; 315; 332; 347; 516; 518; 585; 607; 631; 646; 680; 716; 718; 838; 845; 914; 917; 929; 934
+US,North Carolina,252; 336; 704; 743; 828; 910; 919; 980; 984
+US,North Dakota,701
+US,Ohio,216; 220; 234; 330; 380; 419; 440; 513; 567; 614; 740; 937
+US,Oklahoma,405; 539; 580; 918
+US,Oregon,458; 503; 541; 971
+US,Pennsylvania,215; 223; 267; 272; 412; 445; 484; 570; 610; 717; 724; 814; 878
+US,Rhode Island,401
+US,South Carolina,803; 843; 854; 864
+US,South Dakota,605
+US,Tennessee,423; 615; 629; 731; 865; 901; 931
+US,Texas,210; 214; 254; 281; 325; 346; 361; 409; 430; 432; 469; 512; 682; 713; 726; 737; 806; 817; 830; 832; 903; 915; 936; 940; 956; 972; 979
+US,Utah,385; 435; 801
+US,Vermont,802
+US,Virginia,276; 434; 540; 571; 703; 757; 804
+US,Washington,206; 253; 360; 425; 509; 564
+US,Washington; DC,202
+US,West Virginia,304; 681
+US,Wisconsin,262; 414; 534; 608; 715; 920
+US,Wyoming,307
+CAD,Alberta,368; 403; 587; 780; 825
+CAD,British Columbia,236; 250; 604; 672; 778
+CAD,Manitoba,204; 431
+CAD,New Brunswick,506; 428
+CAD,Newfoundland and Labrador,709; 879
+CAD,Northwest Territories,867
+CAD,Nova Scotia,782; 902
+CAD,Nunavut,867
+CAD,Ontario,226; 249; 289; 343; 365; 416; 437; 519; 548; 613; 647; 705; 807; 905
+CAD,Prince Edward Island,782; 902
+CAD,Quebec,354; 367; 418; 438; 450; 514; 579; 581; 819; 873
+CAD,Saskatchewan,306; 474; 639
+CAD,Yukon,867
+CAD,Non-Geographic,600; 622
+AUS,if starts with 61 and is 11 digits long,61; 
+UK,,+44  all
+ireland,353,
+UK,Leeds,113
+UK,Sheffield,114
+UK,Nottingham,115
+UK,Leicester,116
+UK,Bristol,117
+UK,Reading,118
+UK,Clitheroe,1200
+UK,Bournemouth,1202
+UK,Bolton,1204
+UK,Boston,1205
+UK,Colchester,1206
+UK,Consett,1207
+UK,Bodmin,1208
+UK,Redruth,1209
+UK,Birmingham,121
+UK,Cambridge,1223
+UK,Aberdeen,1224
+UK,Bath,1225
+UK,Barnsley,1226
+UK,Canterbury,1227
+UK,Carlisle,1228
+UK,Barrow-in-Furness,12292
+UK,Millom,12293
+UK,Barrow-in-Furness,12294
+UK,Barrow-in-Furness,12295
+UK,Barrow-in-Furness,12296
+UK,Millom,12297
+UK,Barrow-in-Furness,12298
+UK,Millom,12299
+UK,Ashford (Kent),1233
+UK,Bedford,1234
+UK,Abingdon,1235
+UK,Coatbridge,1236
+UK,Bideford,1237
+UK,Cardigan,1239
+UK,Arbroath,1241
+UK,Cheltenham,1242
+UK,Chichester,1243
+UK,Chester,1244
+UK,Chelmsford,1245
+UK,Chesterfield,1246
+UK,Bangor (Gwynedd),1248
+UK,Chippenham,1249
+UK,Blairgowrie,1250
+UK,Aldershot,1252
+UK,Blackpool,1253
+UK,Blackburn,1254
+UK,Clacton-on-Sea,1255
+UK,Basingstoke,1256
+UK,Coppull,1257
+UK,Blandford,1258
+UK,Alloa,1259
+UK,Congleton,1260
+UK,Banff,1261
+UK,Bridlington,1262
+UK,Cromer,1263
+UK,Andover,1264
+UK,Carmarthen,1267
+UK,Basildon,1268
+UK,Ammanford,1269
+UK,Crewe,1270
+UK,Barnstaple,1271
+UK,Brighton,1273
+UK,Bradford,1274
+UK,Clevedon,1275
+UK,Camberley,1276
+UK,Brentwood,1277
+UK,Bridgwater,1278
+UK,Bishops Stortford,1279
+UK,Buckingham,1280
+UK,Burnley,1282
+UK,Burton-on-Trent,1283
+UK,Bury St Edmunds,1284
+UK,Cirencester,1285
+UK,Caernarfon,1286
+UK,Guisborough,1287
+UK,Bude,1288
+UK,Berwick-upon-Tweed,1289
+UK,Cumnock,1290
+UK,Chepstow,1291
+UK,Ayr,1292
+UK,Crawley,1293
+UK,Ardrossan,1294
+UK,Banbury,1295
+UK,Aylesbury,1296
+UK,Axminster,1297
+UK,Buxton,1298
+UK,Bewdley,1299
+UK,Cerne Abbas,1300
+UK,Arrochar,1301
+UK,Doncaster,1302
+UK,Folkestone,1303
+UK,Dover,1304
+UK,Dorchester,1305
+UK,Dorking,1306
+UK,Forfar,1307
+UK,Bridport,1308
+UK,Forres,1309
+UK,Edinburgh,131
+UK,Fort Augustus,1320
+UK,Dartford,1322
+UK,Eastbourne,1323
+UK,Falkirk,1324
+UK,Darlington,1325
+UK,Falmouth,1326
+UK,Daventry,1327
+UK,Fakenham,1328
+UK,Fareham,1329
+UK,Banchory,1330
+UK,Derby,1332
+UK,Peat Inn,1333
+UK,St Andrews,1334
+UK,Ashbourne,1335
+UK,Ladybank,1337
+UK,Aboyne,13392
+UK,Aboyne,13393
+UK,Ballater,13394
+UK,Aboyne,13395
+UK,Ballater,13396
+UK,Ballater,13397
+UK,Aboyne,13398
+UK,Ballater,13399
+UK,Craigellachie,1340
+UK,Barmouth,1341
+UK,East Grinstead,1342
+UK,Elgin,1343
+UK,Bracknell,1344
+UK,Fraserburgh,1346
+UK,Easingwold,1347
+UK,Fishguard,1348
+UK,Dingwall,1349
+UK,Dunkeld,1350
+UK,Mold,1352
+UK,Ely,1353
+UK,Chatteris,1354
+UK,East Kilbride,1355
+UK,Brechin,1356
+UK,Strathaven,1357
+UK,Ellon,1358
+UK,Pakenham,1359
+UK,Killearn,1360
+UK,Duns,1361
+UK,Dereham,1362
+UK,Crediton,1363
+UK,Ashburton,1364
+UK,Downham Market,1366
+UK,Faringdon,1367
+UK,Dunbar,1368
+UK,Dunoon,1369
+UK,Great Dunmow,1371
+UK,Esher,1372
+UK,Frome,1373
+UK,Grays Thurrock,1375
+UK,Braintree,1376
+UK,Driffield,1377
+UK,Diss,1379
+UK,Devizes,1380
+UK,Fortrose,1381
+UK,Dundee,1382
+UK,Dunfermline,1383
+UK,Dudley,1384
+UK,Evesham,1386
+UK,Dumfries,1387
+UK,Langholm,13873
+UK,Stanhope,13882
+UK,Bishop Auckland,13883
+UK,Bishop Auckland,13884
+UK,Stanhope,13885
+UK,Bishop Auckland,13886
+UK,Bishop Auckland,13887
+UK,Bishop Auckland,13888
+UK,Bishop Auckland,13889
+UK,Dumbarton,1389
+UK,Exeter,1392
+UK,Felixstowe,1394
+UK,Budleigh Salterton,1395
+UK,Fort William,1397
+UK,Dulverton,1398
+UK,Honington,1400
+UK,Horsham,1403
+UK,Honiton,1404
+UK,Goole,1405
+UK,Holbeach,1406
+UK,Holyhead,1407
+UK,Golspie,1408
+UK,Holsworthy,1409
+UK,Glasgow,141
+UK,Alton,1420
+UK,Halifax,1422
+UK,Harrogate,14232
+UK,Boroughbridge,14233
+UK,Boroughbridge,14234
+UK,Harrogate,14235
+UK,Harrogate,14236
+UK,Harrogate,14237
+UK,Harrogate,14238
+UK,Boroughbridge,14239
+UK,Hastings,1424
+UK,Ringwood,1425
+UK,Gainsborough,1427
+UK,Haslemere,1428
+UK,Hartlepool,1429
+UK,North Cave,14302
+UK,North Cave,14303
+UK,North Cave,14304
+UK,North Cave,14305
+UK,Market Weighton,14306
+UK,Market Weighton,14307
+UK,Market Weighton,14308
+UK,Market Weighton,14309
+UK,Helmsdale,1431
+UK,Hereford,1432
+UK,Hathersage,1433
+UK,Bellingham,14342
+UK,Haltwhistle,14343
+UK,Bellingham,14344
+UK,Haltwhistle,14345
+UK,Hexham,14346
+UK,Hexham,14347
+UK,Hexham,14348
+UK,Bellingham,14349
+UK,Heathfield,1435
+UK,Helensburgh,1436
+UK,Clynderwen,14372
+UK,Clynderwen,14373
+UK,Clynderwen,14374
+UK,Clynderwen,14375
+UK,Haverfordwest,14376
+UK,Haverfordwest,14377
+UK,Haverfordwest,14378
+UK,Haverfordwest,14379
+UK,Stevenage,1438
+UK,Helmsley,1439
+UK,Haverhill,1440
+UK,Hemel Hempstead,1442
+UK,Pontypridd,1443
+UK,Haywards Heath,1444
+UK,Gairloch,1445
+UK,Barry,1446
+UK,Stowmarket,1449
+UK,Hawick,1450
+UK,Stow-on-the-Wold,1451
+UK,Gloucester,1452
+UK,Dursley,1453
+UK,Chipping Sodbury,1454
+UK,Hinckley,1455
+UK,Glenurquhart,1456
+UK,Glossop,1457
+UK,Glastonbury,1458
+UK,Chard,1460
+UK,Gretna,1461
+UK,Hitchin,1462
+UK,Inverness,1463
+UK,Insch,1464
+UK,Girvan,1465
+UK,Huntly,1466
+UK,Inverurie,1467
+UK,Killingholme,1469
+UK,Isle of Skye - Edinbane,1470
+UK,Isle of Skye - Broadford,1471
+UK,Grimsby,1472
+UK,Ipswich,1473
+UK,Gravesend,1474
+UK,Greenock,1475
+UK,Grantham,1476
+UK,Holmes Chapel,1477
+UK,Isle of Skye - Portree,1478
+UK,Grantown-on-Spey,1479
+UK,Huntingdon,1480
+UK,Guernsey,1481
+UK,Hull,1482
+UK,Guildford,1483
+UK,Huddersfield,1484
+UK,Hunstanton,1485
+UK,Warboys,1487
+UK,Hungerford,1488
+UK,Bishops Waltham,1489
+UK,Corwen,1490
+UK,Henley-on-Thames,1491
+UK,Colwyn Bay,1492
+UK,Great Yarmouth,1493
+UK,High Wycombe,1494
+UK,Pontypool,1495
+UK,Port Ellen,1496
+UK,Hay-on-Wye,1497
+UK,Inveraray,1499
+UK,Harthill,1501
+UK,Lowestoft,1502
+UK,Looe,1503
+UK,Johnstone,1505
+UK,Bathgate,1506
+UK,Spilsby,15072
+UK,Louth,15073
+UK,Alford (Lincs),15074
+UK,Spilsby,15075
+UK,Louth,15076
+UK,Louth,15077
+UK,Alford (Lincs),15078
+UK,Alford (Lincs),15079
+UK,Brooke,1508
+UK,Loughborough,1509
+UK,Liverpool,151
+UK,Lochcarron,1520
+UK,Lincoln,1522
+UK,Lancaster,1524
+UK,Hornby,15242
+UK,Leighton Buzzard,1525
+UK,Martin,1526
+UK,Redditch,1527
+UK,Laggan,1528
+UK,Sleaford,1529
+UK,Coalville,1530
+UK,Ledbury,1531
+UK,Jersey,1534
+UK,Keighley,1535
+UK,Kettering,1536
+UK,Ipstones,1538
+UK,Kendal,1539
+UK,Hawkshead,15394
+UK,Grange-over-Sands,15395
+UK,Sedbergh,15396
+UK,Kingussie,1540
+UK,Keith,1542
+UK,Cannock,1543
+UK,Kington,1544
+UK,Llanarth,1545
+UK,Lochgilphead,1546
+UK,Knighton,1547
+UK,Kingsbridge,1548
+UK,Lairg,1549
+UK,Llandovery,1550
+UK,Kings Lynn,1553
+UK,Llanelli,1554
+UK,Lanark,1555
+UK,Castle Douglas,1556
+UK,Kirkcudbright,1557
+UK,Llandeilo,1558
+UK,Llandysul,1559
+UK,Moscow,1560
+UK,Laurencekirk,1561
+UK,Kidderminster,1562
+UK,Kilmarnock,1563
+UK,Lapworth,1564
+UK,Knutsford,1565
+UK,Launceston,1566
+UK,Killin,1567
+UK,Leominster,1568
+UK,Stonehaven,1569
+UK,Lampeter,1570
+UK,Lochinver,1571
+UK,Oakham,1572
+UK,Kelso,1573
+UK,Kirriemuir,1575
+UK,Lockerbie,1576
+UK,Kinross,1577
+UK,Lauder,1578
+UK,Liskeard,1579
+UK,Cranbrook,1580
+UK,New Luce,1581
+UK,Luton,1582
+UK,Carradale,1583
+UK,Ludlow,1584
+UK,Campbeltown,1586
+UK,Bishops Castle,1588
+UK,Lymington,1590
+UK,Llanwrtyd Wells,1591
+UK,Kirkcaldy,1592
+UK,Lybster,1593
+UK,Lydney,1594
+UK,Lerwick,1595
+UK,Foula,159575
+UK,Fair Isle,159576
+UK,Llandrindod Wells,1597
+UK,Lynton,1598
+UK,Kyle,1599
+UK,Monmouth,1600
+UK,Norwich,1603
+UK,Northampton,1604
+UK,Northwich,1606
+UK,Chipping Norton,1608
+UK,Northallerton,1609
+UK,Manchester,161
+UK,North Berwick,1620
+UK,Maldon,1621
+UK,Maidstone,1622
+UK,Mansfield,1623
+UK,Isle of Man,1624
+UK,Macclesfield,1625
+UK,Newton Abbot,1626
+UK,Maidenhead,1628
+UK,Matlock,1629
+UK,Market Drayton,1630
+UK,Oban,1631
+UK,Newport,1633
+UK,Medway,1634
+UK,Newbury,1635
+UK,Newark,1636
+UK,Newquay,1637
+UK,Newmarket,1638
+UK,Neath,1639
+UK,Strathy,1641
+UK,Middlesbrough,1642
+UK,Minehead,1643
+UK,New Galloway,1644
+UK,Milford Haven,1646
+UK,Moretonhampstead,1647
+UK,Cemmaes Road,1650
+UK,Oldmeldrum,1651
+UK,Brigg,1652
+UK,Malton,1653
+UK,Machynlleth,1654
+UK,Maybole,1655
+UK,Bridgend,1656
+UK,Sanquhar,1659
+UK,Prudhoe,1661
+UK,New Mills,1663
+UK,Melton Mowbray,1664
+UK,Alnwick,1665
+UK,Malmesbury,1666
+UK,Nairn,1667
+UK,Bamburgh,1668
+UK,Rothbury,1669
+UK,Morpeth,1670
+UK,Newton Stewart,1671
+UK,Marlborough,1672
+UK,Market Rasen,1673
+UK,Montrose,1674
+UK,Coleshill,1675
+UK,Meriden,1676
+UK,Bedale,1677
+UK,Bala,1678
+UK,Isle of Mull - Craignure,1680
+UK,Isle of Mull - Fionnphort,1681
+UK,Moffat,1683
+UK,Malvern,1684
+UK,Merthyr Tydfil,1685
+UK,Llanidloes,16862
+UK,Llanidloes,16863
+UK,Llanidloes,16864
+UK,Newtown,16865
+UK,Newtown,16866
+UK,Llanidloes,16867
+UK,Newtown,16868
+UK,Newtown,16869
+UK,Mallaig,1687
+UK,Isle of Mull - Tobermory,1688
+UK,Orpington,1689
+UK,Betws-y-Coed,1690
+UK,Oswestry,1691
+UK,North Walsham,1692
+UK,Church Stretton,1694
+UK,Skelmersdale,1695
+UK,Brampton,1697
+UK,Wigton,16973
+UK,Raughton Head,16974
+UK,Motherwell,1698
+UK,Rothesay,1700
+UK,Southend-on-Sea,1702
+UK,Southport,1704
+UK,Rochdale,1706
+UK,Welwyn Garden City,1707
+UK,Romford,1708
+UK,Rotherham,1709
+UK,Isles of Scilly,1720
+UK,Peebles,1721
+UK,Salisbury,1722
+UK,Scarborough,1723
+UK,Scunthorpe,1724
+UK,Rockbourne,1725
+UK,St Austell,1726
+UK,St Albans,1727
+UK,Saxmundham,1728
+UK,Settle,1729
+UK,Petersfield,1730
+UK,Sevenoaks,1732
+UK,Peterborough,1733
+UK,Penzance,1736
+UK,Redhill,1737
+UK,Perth,1738
+UK,Sedgefield,1740
+UK,Shrewsbury,1743
+UK,St Helens,1744
+UK,Rhyl,1745
+UK,Bridgnorth,1746
+UK,Shaftesbury,1747
+UK,Richmond,1748
+UK,Shepton Mallet,1749
+UK,Selkirk,1750
+UK,Pickering,1751
+UK,Plymouth,1752
+UK,Slough,1753
+UK,Skegness,1754
+UK,Skipton,1756
+UK,Selby,1757
+UK,Pwllheli,1758
+UK,Pocklington,1759
+UK,Swaffham,1760
+UK,Temple Cloud,1761
+UK,Royston,1763
+UK,Crieff,1764
+UK,Ripon,1765
+UK,Porthmadog,1766
+UK,Sandy,1767
+UK,Penrith,1768
+UK,Appleby,17683
+UK,Pooley Bridge,17684
+UK,Keswick,17687
+UK,South Molton,1769
+UK,Isle of Arran,1770
+UK,Maud,1771
+UK,Preston,1772
+UK,Ripley,1773
+UK,Spalding,1775
+UK,Stranraer,1776
+UK,Retford,1777
+UK,Bourne,1778
+UK,Peterhead,1779
+UK,Stamford,1780
+UK,Stoke-on-Trent,1782
+UK,Staines,1784
+UK,Stafford,1785
+UK,Stirling,1786
+UK,Sudbury,1787
+UK,Rugby,1788
+UK,Stratford-upon-Avon,1789
+UK,Spilsby,1790
+UK,Swansea,1792
+UK,Swindon,1793
+UK,Romsey,1794
+UK,Sittingbourne,1795
+UK,Pitlochry,1796
+UK,Rye,1797
+UK,Pulborough,1798
+UK,Saffron Walden,1799
+UK,Torquay,1803
+UK,Torrington,1805
+UK,Shetland,1806
+UK,Ballindalloch,1807
+UK,Tomatin,1808
+UK,Tomdoun,1809
+UK,Kinrossie,1821
+UK,Tavistock,1822
+UK,Taunton,1823
+UK,Ruthin,1824
+UK,Uckfield,1825
+UK,Tamworth,1827
+UK,Coupar Angus,1828
+UK,Tarporley,1829
+UK,Kirkwhelpington,1830
+UK,Clopton,1832
+UK,Barnard Castle,1833
+UK,Narberth,1834
+UK,St Boswells,1835
+UK,Okehampton,1837
+UK,Dalmally,1838
+UK,Camelford,1840
+UK,Newquay,1841
+UK,Thetford,1842
+UK,Thanet,1843
+UK,Thame,1844
+UK,Thirsk,1845
+UK,Thurso,18472
+UK,Thurso,18473
+UK,Thurso,18474
+UK,Thurso,18475
+UK,Tongue,18476
+UK,Tongue,18477
+UK,Thurso,18478
+UK,Tongue,18479
+UK,Thornhill,1848
+UK,Stornoway,18512
+UK,Stornoway,18513
+UK,Great Bernera,18514
+UK,Stornoway,18515
+UK,Great Bernera,18516
+UK,Stornoway,18517
+UK,Stornoway,18518
+UK,Great Bernera,18519
+UK,Kilmelford,1852
+UK,Ullapool,1854
+UK,Ballachulish,1855
+UK,Orkney,1856
+UK,Sanday,1857
+UK,Market Harborough,1858
+UK,Harris,1859
+UK,Tain,1862
+UK,Ardgay,1863
+UK,Abington,1864
+UK,Oxford,1865
+UK,Kilchrenan,1866
+UK,Bicester,1869
+UK,Isle of Benbecula,1870
+UK,Castlebay,1871
+UK,Truro,1872
+UK,Abergavenny,1873
+UK,Brecon,1874
+UK,Tranent,1875
+UK,Lochmaddy,1876
+UK,Callander,1877
+UK,Lochboisdale,1878
+UK,Scarinish,1879
+UK,Tarbert,1880
+UK,Kinloch Rannoch,1882
+UK,Caterham,1883
+UK,Tiverton,1884
+UK,Pencombe,1885
+UK,Bromyard,1886
+UK,Aberfeldy,1887
+UK,Turriff,1888
+UK,Rugeley,1889
+UK,Coldstream,18902
+UK,Coldstream,18903
+UK,Coldstream,18904
+UK,Ayton,18905
+UK,Ayton,18906
+UK,Ayton,18907
+UK,Coldstream,18908
+UK,Ayton,18909
+UK,Tunbridge Wells,1892
+UK,Uxbridge,1895
+UK,Galashiels,1896
+UK,Biggar,1899
+UK,Workington,1900
+UK,Wolverhampton,1902
+UK,Worthing,1903
+UK,York,1904
+UK,Worcester,1905
+UK,Milton Keynes,1908
+UK,Worksop,1909
+UK,Tyneside,1912
+UK,Durham,1913
+UK,Tyneside,1914
+UK,Sunderland,1915
+UK,Tyneside,1916
+UK,Sunderland,1917
+UK,Tyneside,1918
+UK,Durham,1919
+UK,Ware,1920
+UK,Walsall,1922
+UK,Watford,1923
+UK,Wakefield,1924
+UK,Warrington,1925
+UK,Warwick,1926
+UK,Runcorn,1928
+UK,Wareham,1929
+UK,Shap,1931
+UK,Weybridge,1932
+UK,Wellingborough,1933
+UK,Weston-super-Mare,1934
+UK,Yeovil,1935
+UK,Wetherby,1937
+UK,Welshpool,1938
+UK,Wem,1939
+UK,Wigan,1942
+UK,Guiseley,1943
+UK,West Heslerton,1944
+UK,Wisbech,1945
+UK,Whitehaven,1946
+UK,Gosforth,19467
+UK,Whitby,1947
+UK,Whitchurch,1948
+UK,Whatton,1949
+UK,Sandwick,1950
+UK,Colonsay,1951
+UK,Telford,1952
+UK,Wymondham,1953
+UK,Madingley,1954
+UK,Wick,1955
+UK,Mid Yell,1957
+UK,Westerham,1959
+UK,Winchester,1962
+UK,Wincanton,1963
+UK,Hornsea,19642
+UK,Patrington,19643
+UK,Patrington,19644
+UK,Hornsea,19645
+UK,Patrington,19646
+UK,Patrington,19647
+UK,Hornsea,19648
+UK,Hornsea,19649
+UK,Strontian,1967
+UK,Penicuik,1968
+UK,Leyburn,1969
+UK,Aberystwyth,1970
+UK,Scourie,1971
+UK,Glenborrodale,1972
+UK,Llanon,1974
+UK,Alford (Aberdeen),19752
+UK,Strathdon,19753
+UK,Alford (Aberdeen),19754
+UK,Alford (Aberdeen),19755
+UK,Strathdon,19756
+UK,Strathdon,19757
+UK,Strathdon,19758
+UK,Alford (Aberdeen),19759
+UK,Pontefract,1977
+UK,Wrexham,1978
+UK,Amesbury,1980
+UK,Wormbridge,1981
+UK,Builth Wells,1982
+UK,Isle of Wight,1983
+UK,Watchet,1984
+UK,Warminster,1985
+UK,Bungay,1986
+UK,Ebbsfleet,1987
+UK,Wigtown,1988
+UK,Ross-on-Wye,1989
+UK,Lea Valley,1992
+UK,Witney,1993
+UK,St Clears,1994
+UK,Garstang,1995
+UK,Strathpeffer,1997
